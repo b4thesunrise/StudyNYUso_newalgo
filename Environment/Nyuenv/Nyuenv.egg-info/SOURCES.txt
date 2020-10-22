@@ -1,0 +1,6 @@
+setup.py
+Nyuenv.egg-info/PKG-INFO
+Nyuenv.egg-info/SOURCES.txt
+Nyuenv.egg-info/dependency_links.txt
+Nyuenv.egg-info/requires.txt
+Nyuenv.egg-info/top_level.txt
